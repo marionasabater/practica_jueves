@@ -1,0 +1,18 @@
+/* CSS COLOR */
+/* **************************************************************** */
+
+:root{
+    --colorAmarillo: #FFCB13;
+    --colorGrisOscuro: #3A3A3A;
+    --colorGris: #F5F5F5;
+
+}
+
+
+body {background-color: var(--colorGris);}
+
+.main__banner__boton p {background-color: var(--colorAmarillo);}
+
+footer {background-color: var(--colorGrisOscuro);
+        color:var(--colorGris);}
+
